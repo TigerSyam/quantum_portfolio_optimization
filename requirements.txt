@@ -1,0 +1,5 @@
+numpy
+scipy
+qiskit
+qiskit-optimization
+qiskit-algorithms

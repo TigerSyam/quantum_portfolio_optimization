@@ -132,14 +132,3 @@ Submission-ready text lives in:
 - `report/ppt_slides.md` — slide-by-slide deck script (12 slides)
 - `report/panel_qa.md` — panel Q&A prep
 
-## How to Cite / Talk About the Outcome (honest framing)
-
-This project is **not** claiming quantum advantage at \(N=5\). Instead:
-
-- classical brute force is exact and trivial at small scale
-- QAOA is approximate and depends on encoding + hyperparameters
-- the key contribution is the **end-to-end modeling + QUBO mapping + evaluation workflow**
-
-A strong line for reports/presentations:
-
-> Our goal was not to force quantum advantage, but to rigorously evaluate when and why it may or may not appear.
